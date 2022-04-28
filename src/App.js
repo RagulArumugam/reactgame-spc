@@ -9,9 +9,9 @@ function App() {
   const { score } = useContext(mainContext);
   return (
     <div className="App">
-      {/* <ScoreBoard score={score} /> */}
+      <ScoreBoard score={score} />
       <OptionContainer />
-      <GameArea />
+      {/* <GameArea /> */}
     </div>
   );
 }
