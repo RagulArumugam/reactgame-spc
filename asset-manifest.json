@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactgame-spc/static/css/main.a77eb9c5.css",
+    "main.js": "/reactgame-spc/static/js/main.21081a7f.js",
+    "static/media/paper.png": "/reactgame-spc/static/media/paper.a46268b2327c2668e08f.png",
+    "static/media/cisor.png": "/reactgame-spc/static/media/cisor.3e39620225ef5b390ebe.png",
+    "static/media/stone.png": "/reactgame-spc/static/media/stone.859065f387266c5de45f.png",
+    "index.html": "/reactgame-spc/index.html",
+    "main.a77eb9c5.css.map": "/reactgame-spc/static/css/main.a77eb9c5.css.map",
+    "main.21081a7f.js.map": "/reactgame-spc/static/js/main.21081a7f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a77eb9c5.css",
+    "static/js/main.21081a7f.js"
+  ]
+}
